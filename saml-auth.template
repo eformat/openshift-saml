@@ -60,7 +60,7 @@
                 "name": "saml-auth"
             },
             "spec": {
-                "dockerImageRepository": "docker.io/mweetman/saml-auth"
+                "dockerImageRepository": "brew-pulp-docker01.web.prod.ext.phx2.redhat.com:8888/openshift3/saml-service-provider"
             },
             "status": {
                 "dockerImageRepository": ""
